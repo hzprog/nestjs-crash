@@ -10,6 +10,4 @@ export class AppController {
     return this.appService.getHello();
   }
 
-  //working
-  //this comment is working fine
 }
